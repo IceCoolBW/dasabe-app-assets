@@ -1,4 +1,4 @@
-# 在 Samsung 裝置上為 DaSaBe 啟用 Now Bar
+# 在三星裝置上為 DaSaBe 啟用 Now Bar
 
 若要讓 DaSaBe 的即時挑戰進度顯示在系統頂端的膠囊狀態列中，請按照以下步驟手動開啟：
 
